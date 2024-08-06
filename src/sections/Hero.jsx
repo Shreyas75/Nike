@@ -11,7 +11,7 @@ const Hero = () => {
           <span>Nike</span>
           Shoes
           </h1>
-          <p>Discover stylish Nike arrivals, quality comfort, and innovation for your life.</p>
+          <p>Discover stylish Nike arrivals, quality comfort, and innovation for your life. Forever</p>
           <Button />
       </div>
 
